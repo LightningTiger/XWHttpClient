@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source       = { :git => "https://github.com/LightningTiger/XWHttpClient.git", :tag => "#{s.version}" }
-  s.source_files  = "XWHttpClient", "XWHttpClient/**/*.{h,m}"
+  s.source_files  = "XWHttpClient", "XWHttpClient/**/*.{h,m,mm}"
  
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
 
