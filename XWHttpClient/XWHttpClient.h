@@ -10,8 +10,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <AFNetworking.h>
-#import <MMProgressHUD.h>
+#import "AFNetworking.h"
+#import "MMProgressHUD.h"
 #import "XWUploadModel.h"
 #import "NSDictionary+XWHttpClient.h"
 
